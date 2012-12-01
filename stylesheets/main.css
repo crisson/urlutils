@@ -1,0 +1,34 @@
+#main_content {
+    min-height: 200px;
+}
+
+#urlInp {
+    width: 100%;
+    border-radius: 8px;
+    height: 32px;
+    padding: 5px 0 5px 10px;
+    font-size: 17px;
+}
+
+#pretty-output {
+    width: 100%;
+    min-height: 120px;
+    border-radius: 4px;
+    border: 1px solid #858585;
+    background-color: #303030;
+}
+
+.output-container {
+    margin-top: 40px;
+}
+
+#error-msg {
+    display: none;
+}
+
+.initial-message {
+    color: white;
+    text-align: center;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 15px;
+}
