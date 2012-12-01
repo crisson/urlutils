@@ -18,6 +18,10 @@
     background-color: #303030;
 }
 
+#pretty-output pre {
+    margin-bottom: 0;
+}
+
 .output-container {
     margin-top: 40px;
 }
